@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img-canguro-0074.jpg
+Ruta del archivo: C:\IA_Gpo3H\VA_0074\u2-act1-va-0074\p1-act1-0074\img-original-0074\img-canguro-0074.jpg
+Formato por extension: .JPG
+Tamano en bytes: 36416
+Tamano en KB: 35.56
+Tamano en MB: 0.0347
+
+DIMENSIONES
+-----------
+Ancho: 399 pixeles
+Alto: 501 pixeles
+Resolucion: 399 x 501
+Total de pixeles: 199,899
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 119.29
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 91.00
+Verde (G): 113.75
+Rojo (R): 153.13
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
